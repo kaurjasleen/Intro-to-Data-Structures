@@ -1,0 +1,14 @@
+# CMPS 12B
+# 2/7/2018
+# README
+
+README
+Dictionary.java - Node class defined to contain two String fields called key and value.
+DictionaryTest.java
+DuplicateKeyException.java
+KeyNotFoundException.java
+DictionaryInterface.java
+DictionaryClient.java
+Makefile
+
+
