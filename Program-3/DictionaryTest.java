@@ -37,5 +37,8 @@ public class DictionaryTest {
 	      System.out.println(B);
 	      B.delete("3");
 	      System.out.println(B);
+	   }
+}
+		   
 
 
